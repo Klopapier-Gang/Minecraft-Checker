@@ -16,5 +16,3 @@ it works by havin one minecraft account which is always valid then programm the 
 
 
 ## i dont take any responsibility for damage done with the programm it's for educational purposes only and its just a proove of concept of how it would be possible to detect if mojang shadow banns you do not use this programm for account cracking
-
-A
